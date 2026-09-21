@@ -1,4 +1,7 @@
 ## haii
+<p align="center">
+  <img src="sawfish-line-icon.png" alt="Banner" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.tiktok.com/@bonjour030cd">
