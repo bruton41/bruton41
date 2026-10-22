@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@bonjour030cd">
+  <a href="https://www.tiktok.com/@deniz.z0z">
     <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://app.parler.com/yummy88">
